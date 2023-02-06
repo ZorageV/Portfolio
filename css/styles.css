@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h1{
+    /* position: absolute; */
+}
+.top{
+    background-color: aqua;
+}
+.cloud1{
+    margin: 10px 0 0 0;
+    position: relative;
+    left: 200px;
+
+}
+.cloud2{
+    position: absolute;
+}
+.mountain{
+    /* margin: 100px 0 0 0; */
+}
+.text{
+    /* width: fit-content; */
+    /* position: relative; */
+}
