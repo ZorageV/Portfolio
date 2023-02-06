@@ -3,24 +3,35 @@ body{
     text-align: center;
 }
 h1{
-    /* position: absolute; */
+    font-family: 'Dancing Script', monospace;
+}
+hr{
+    width: 50%;
+    height: 5px;
+    background-color: black;
+}
+.middle-container{
+    background-color: aquamarine;
+}
+.skills{
+    background-color: bisque;
 }
 .top{
-    background-color: aqua;
+    background-color: rgb(182, 241, 241);
 }
+.profile{
+    background-color: pink;
+}
+
 .cloud1{
     margin: 10px 0 0 0;
     position: relative;
     left: 200px;
-
+    padding-top: 100px;
 }
 .cloud2{
     position: absolute;
 }
-.mountain{
-    /* margin: 100px 0 0 0; */
-}
-.text{
-    /* width: fit-content; */
-    /* position: relative; */
+.photo{
+    height: 300px;
 }
