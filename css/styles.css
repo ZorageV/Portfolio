@@ -3,26 +3,37 @@ body{
     text-align: center;
 }
 h1{
+    font-size: 100px;
     font-family: 'Dancing Script', monospace;
+}
+h2{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 0;
 }
 hr{
     width: 50%;
     height: 5px;
     background-color: black;
 }
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
 .middle-container{
-    background-color: aquamarine;
+    background-color: #b6f1f1;
 }
-.skills{
-    background-color: bisque;
-}
-.top{
-    background-color: rgb(182, 241, 241);
-}
-.profile{
-    background-color: pink;
+.bottom-container{
+    background-color: #b6f1f1;
 }
 
+.top{
+    background-color: #b6f1f1;
+}
 .cloud1{
     margin: 10px 0 0 0;
     position: relative;
@@ -33,5 +44,6 @@ hr{
     position: absolute;
 }
 .photo{
+    margin-top: 10px;
     height: 300px;
 }
