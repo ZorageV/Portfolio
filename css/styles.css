@@ -1,17 +1,27 @@
 body{
     margin: 0;
     text-align: center;
+    background-color: #eaf6f6;
+}
+a{
+    color: #11999E;
 }
 h1{
-    font-size: 100px;
+    color: #66BFBF;
+    font-size: 5.625rem;
     font-family: 'Dancing Script', monospace;
+    line-height: 2;
+    margin: 50px 0 0 0;
 }
 h2{
-    font-size: 40px;
+    color: #66BFBF;
+    font-size: 2.50rem;
     font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
 }
 h3{
-    font-size: 40px;
+    color: #11999E;
+    font-size: 2.5rem;
     font-family: 'Courier New', Courier, monospace;
     margin-top: 0;
 }
@@ -22,17 +32,7 @@ hr{
 }
 p{
     font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
-}
-.middle-container{
-    background-color: #b6f1f1;
-}
-.bottom-container{
-    background-color: #b6f1f1;
-}
-
-.top{
-    background-color: #b6f1f1;
+    font-size: 1.25rem;
 }
 .cloud1{
     margin: 10px 0 0 0;
@@ -47,3 +47,4 @@ p{
     margin-top: 10px;
     height: 300px;
 }
+
