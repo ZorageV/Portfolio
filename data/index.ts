@@ -84,7 +84,7 @@ export const projects = [
       "/tensorflow.svg",
       "/docker.svg",
     ],
-    link: "https://app.clickbacon.com/",
+    link: "https://clickbacon.com/",
   },
   // {
   //   id: 2,
