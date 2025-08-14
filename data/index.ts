@@ -171,7 +171,7 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "MLE Intern - Polynomial AI",
+    title: "Machine Learning Engineer - Polynomial AI",
     desc: "Automated POS data extraction, integrated APIs, and developed an ML pipeline with 95–97% accuracy, reducing verification time by 70% and optimizing server performance",
     className: "md:col-span-2",
     thumbnail: "/polynomialai.png",
